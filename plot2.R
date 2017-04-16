@@ -4,7 +4,7 @@
 #
 # This file contains the functions for creating the second plot for the week 1
 # project of the Exploratory Data Analysis course. After loading the
-# create_plot_2 functions can be used as the main function.
+# create_plot_2 can be used as the main function.
 #
 # Functions:
 #   - create_plot_2
