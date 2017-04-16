@@ -7,7 +7,7 @@
 # create_plot_3 can be used as the main function.
 #
 # Functions:
-#   - create_plot_2
+#   - create_plot_3
 #   - check_required_features
 #   - load_data
 #
@@ -173,5 +173,11 @@ load_data <- function (filename) {
   print("......... End loading data.")
   return(df)
 }
+
+##############################################################################
+#
+# Mainline
+#
+##############################################################################
 
 create_plot_3()
