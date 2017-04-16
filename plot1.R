@@ -2,6 +2,9 @@
 #
 # Filename: plot1.R
 #
+# This file contains the functions for creating the first plot for the week 1
+# project of the Exploratory Data Analysis course. After loading the
+# create_plot_1 functions can be used as the main function.
 #
 # Functions:
 #   - create_plot_1
@@ -35,7 +38,7 @@ required.features <- c("datetime",
 
 ##############################################################################
 #
-# Function:
+# Function: create_plot_1
 #
 # This function creates the first plot for the week 1 project in the Exploratory
 # Data Analysis course. This function loads in the data set and opens a graphics
