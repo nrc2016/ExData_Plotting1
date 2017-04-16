@@ -13,6 +13,19 @@
 #
 ##############################################################################
 
+##############################################################################
+#
+# Function: mainline
+#
+# This functions executes the four plotting scripts so they create the four
+# plots required by the week 1 project.
+#
+# Args:
+#
+# Returns:
+#
+##############################################################################
+
 mainline <- function() {
   print("Starting mainline ...")
 
